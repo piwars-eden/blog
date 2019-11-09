@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-nederburg-theme"
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = true
+
+[[params]]
+  copyright = [
+    "&copy; 2019 PiWars",
+  ]
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 2
+
+  [params.writers]
+    [params.writers."Alex Burrow"]
+    email = ""
+    bio = [
+      ""
+    ]
+
