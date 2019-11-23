@@ -3,6 +3,17 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About us"
 +++
 
-Cheesecake brownie marzipan oat cake liquorice. Bonbon bonbon jujubes caramels. Marzipan sweet roll candy donut. Candy gummi bears cupcake pastry sugar plum oat cake. Sweet cookie toffee bear claw brownie jujubes pastry. Apple pie tootsie roll gummies jelly tiramisu soufflé tiramisu bonbon cookie. Sesame snaps candy halvah cake. Fruitcake candy canes sesame snaps gingerbread tart oat cake oat cake sugar plum. Chocolate pudding brownie jelly beans dragée oat cake. Soufflé gingerbread chupa chups. Caramels sweet sugar plum. Marshmallow ice cream cotton candy biscuit powder wafer. Tootsie roll marshmallow liquorice tootsie roll pastry cake wafer tootsie roll.
+We're two friends who love to code and solve puzzles. 
 
-Fruitcake liquorice marshmallow pastry oat cake ice cream sweet roll lemon drops. Macaroon donut soufflé soufflé gingerbread. Muffin lemon drops candy canes brownie tart tootsie roll donut caramels. Candy cotton candy marshmallow candy powder ice cream jelly beans apple pie. Topping halvah cookie marshmallow dessert danish pudding bonbon pastry. Pastry cupcake marzipan gummies chocolate cake cotton candy. Chocolate donut sweet roll chocolate. Gummi bears gummi bears topping pastry tiramisu jelly pastry. Candy canes carrot cake bear claw cheesecake liquorice muffin gingerbread chupa chups cake. Carrot cake topping ice cream marshmallow fruitcake chocolate candy marshmallow ice cream. Apple pie sweet roll apple pie wafer tiramisu dragée fruitcake pie pastry. Tootsie roll candy canes cookie. Jelly-o pastry ice cream dragée soufflé cake macaroon jelly beans. Ice cream halvah apple pie chocolate lollipop gummies.
+We met in 2017 whilst working together and hit if off. Wilst circumstances have changed we still challenge, explore and have fun together.
+
+### Alex
+* Analytics Manager
+* Crafty and enjoys craft beer
+* Unpopular opinion: A kitkat should only ever be eaten by nibbling the chocolate from around the edge, and then wafer by wafer.
+
+
+### Talia
+* Senior Analytics Consultant
+* Plays hockey and loves to cook
+* Unpopular opinion: Ice cream isn't as amazing as everyone says it is. It's just fine.
