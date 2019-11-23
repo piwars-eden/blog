@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://piwars-eden.netlify.com/"
+languageCode = "en-gb"
+title = "PiWars Eden Blog"
 theme = "hugo-nederburg-theme"
 
 [privacy]
