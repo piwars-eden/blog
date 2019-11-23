@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = ""
+image = "img/NO_AB.jpg"
 date = "2019-11-20T00:00:00+00:00"
 title = "Why enter Piwars?"
 writer = "Alex & Talia"
