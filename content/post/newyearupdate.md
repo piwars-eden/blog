@@ -3,9 +3,9 @@ showonlyimage = true
 draft = false
 image = ""
 date = "2020-02-02 T00:00:00+00:00"
-title = "New Year Update"
+title = "New Year's Update"
 writer = "Talia"
-categories = [ "baz"]
+categories = [ "Progress Update"]
 weight = 1
 +++
 
