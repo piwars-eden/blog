@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/IMG_2106.jpg"
-date = "2020-03-05 T00:00:00+00:00"
+date = "2020-03-05T00:00:00+00:00"
 title = "Trying to get Control"
 writer = "Alex"
 categories = [ "Progress Update"]
